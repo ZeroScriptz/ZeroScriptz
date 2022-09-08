@@ -64,6 +64,7 @@ hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/De
 ```
 
 
+
 <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/06eafd3aa63e8d0d41ed08717d3905ef064e460b/github-contribution-grid-snake.svg"/>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
@@ -75,10 +76,12 @@ hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/De
 <img src="https://img.icons8.com/nolan/452/css-filetype.png" alt="bash" width="75" height="75"/>
 <img src="https://img.icons8.com/external-others-iconmarket/344/external-lua-file-types-others-iconmarket-2.png" alt="bash" width="75" height="75"/>
 </p>
-<img height="150" width="150" src="https://i.imgur.com/g1rn3bz.png"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroscriptz&theme=nightowl&show_icons=true)
+<img height="200" width="200" src="https://i.imgur.com/g1rn3bz.png"/>
+
 </div>
 
 
 
 
-  
