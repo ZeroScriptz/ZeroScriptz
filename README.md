@@ -36,14 +36,14 @@ CEO OF ZERO DEVELOPMENT
 name: Zack aka (ZERO)
 Location: Western United Stated
 Current Job: Freelance Developer & Designer
-education:
+Education:
  『"Self-Taught Developer & Certifications from Courses",
     "Trained Designer",
     "AP College Board 2-D Art and Design",』
     
-company: Zero Development
+Company: Zero Development
 
-fields_of_interests:
+Interests:
 
  『 "Web Development",
     "Game Development & Modding",
@@ -51,14 +51,14 @@ fields_of_interests:
     "UI/UX",
     "Graphic Design"』
     
-technical_background:
+Technical-Background:
 
 『"Server Developer for Various Video Games",
     "Web Developer for various drop-shipping website",
     "QQCW - Shopify/Website Development & Gift-Card Generator",
     "Intern - Outreach Videographer"』
   
-Currently Progressing: 『"C++, Digital Marketing, iOS Development"』  
+Currently-Progressing: 『"C++, Digital Marketing, iOS Development"』  
 2022 Goals: 『"Provide & Create more Free and Paid Assets, Release our big NCRP project, further our development with Zero Development"』
 hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/Design"』
 ```
