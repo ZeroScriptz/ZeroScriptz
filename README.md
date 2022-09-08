@@ -68,6 +68,7 @@ hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/De
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://img.icons8.com/nolan/344/html-5.png" alt="vscode" width="75" height="75"/>
+<img src="https://img.icons8.com/nolan/344/html-filetype.png" alt="bash" width="75" height="75"/>
 <img src="https://img.icons8.com/nolan/344/sql.png" alt="bash" width="75" height="75"/>
 <img src="https://img.icons8.com/nolan/452/js.png" alt="bash" width="75" height="75"/>
 <img src="https://img.icons8.com/nolan/452/json.png" alt="bash" width="75" height="75"/>
