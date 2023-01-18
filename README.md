@@ -58,8 +58,8 @@ Technical-Background:
     "QQCW - Shopify/Website Development & Gift-Card Generator",
     "Intern - Outreach Videographer"』
   
-Currently-Progressing: 『"C++, Digital Marketing, iOS Development"』  
-2022 Goals: 『"Provide & Create more Free and Paid Assets, Release our big NCRP project, further our development with Zero Development"』
+Currently-Progressing: 『"React Application"』  
+2022 Goals: 『"Provide & Create more Free and Paid Assets"』
 hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/Design"』
 ```
 
