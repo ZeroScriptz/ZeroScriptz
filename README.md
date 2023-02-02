@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 # ✣ABOUT ME✣
  ```red
-CEO OF ZERO DEVELOPMENT
-name: Zack aka (ZERO)
+name: Zack Darnell
 Location: Western United Stated
 Current Job: Freelance Developer & Designer
 Education:
@@ -41,8 +40,6 @@ Education:
     "Trained Designer",
     "AP College Board 2-D Art and Design",』
     
-Company: Zero Development
-
 Interests:
 
  『 "Web Development",
