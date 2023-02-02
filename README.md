@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/zack-darnell-837596201/">
   <img height="75" src="https://img.icons8.com/3d-fluency/344/linkedin.png"/>
 </a>
-<a href="https://zerodev.info">
+<a href="https://zackdarnell.netlify.app">
   <img height="75" src="https://img.icons8.com/fluency/344/internet.png"/>
 </a>
 
