@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=90&text=Welcome🖥%!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=90&text=Welcome🖥%!" />
 </div>
 <div align = center>
 <a href="https://www.instagram.com/zacks.design/">
