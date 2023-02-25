@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 # ✣ABOUT ME✣
  ```red
 name: Zack Darnell
-Location: Western United Stated
+Location: Western United States
 Current Job: Freelance Developer & Designer
 Education:
  『"Self-Taught Developer & Certifications from Courses",
