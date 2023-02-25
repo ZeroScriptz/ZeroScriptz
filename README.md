@@ -50,14 +50,15 @@ Interests:
     
 Technical-Background:
 
-『"Server Developer for Various Video Games",
+『"Web Developer and Front End Specialist for various small brands/companies"
+  "Server Developer for Various Video Games",
     "Web Developer for various drop-shipping website",
-    "QQCW - Shopify/Website Development & Gift-Card Generator",
-    "Intern - Outreach Videographer"』
+    "QQCW - Shopify/Website Development & Digital Gift-Card Generator",
+    "Intern - Outreach Website Videographer"』
   
-Currently-Progressing: 『"React Application"』  
-2022 Goals: 『"Provide & Create more Free and Paid Assets"』
-hobbies: 『"Comedy Shows/Movies, FPS Gaming, Coding & Teaching, YouTube, Art/Design"』
+Currently-Progressing: 『"Going to finish learning back-end from Meta and land my dream job as a Junior Dev!"』  
+2023/24 Goals: 『"Land Dream Job, Provide & Create more Free and Paid Assets or even a SaaS product/service"』
+hobbies: 『"Comedy Shows/Movies, Creative Gaming/Modifications, Coding & Teaching Code, YouTube, Art/Design"』
 ```
 
 
