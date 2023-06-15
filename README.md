@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  ```red
 name: Zack Darnell
 Location: Western United States
-Current Job: Freelance Developer & Designer
+Current Job: Software Engineer - Full Stack @ ACR Home Services
 Education:
  『"Self-Taught Developer & Certifications from Courses",
     "Trained Designer",
@@ -44,20 +44,22 @@ Interests:
 
  『 "Web Development",
     "Game Development & Modding",
-    "Machine Learning like Linux OS etc.",
+    "Machine Learning",
     "UI/UX",
     "Graphic Design"』
     
 Technical-Background:
 
-『"Web Developer and Front End Specialist for various small brands/companies"
-  "Server Developer for Various Video Games",
+『
+    "Software Engineer - Full Stack @ ACR HOME SERVICES"
+    "Web Developer and Front End Specialist for various small brands/companies"
+    "Server Developer for Various Video Games",
     "Web Developer for various drop-shipping website",
     "QQCW - Shopify/Website Development & Digital Gift-Card Generator",
     "Intern - Outreach Website Videographer"』
   
-Currently-Progressing: 『"Going to finish learning back-end from Meta and land my dream job as a Junior Dev!"』  
-2023/24 Goals: 『"Land Dream Job, Provide & Create more Free and Paid Assets or even a SaaS product/service"』
+Currently-Progressing: 『"Making a Full Stack Web application then converting it to a sole application to iOS and Android Devices!"』  
+2023/24 Goals: 『"Finish this Full Stack Web Application & Convert to iOS / Android Devices"』
 hobbies: 『"Comedy Shows/Movies, Creative Gaming/Modifications, Coding & Teaching Code, YouTube, Art/Design"』
 ```
 
