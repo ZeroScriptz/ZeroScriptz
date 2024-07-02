@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  ```red
 name: Zack Darnell
 Location: Western United States
-Current Job: Software Engineer - Full Stack @ ACR Home Services
+Current Job: Senior Software Engineer - Full Stack @ 1776 Logistics
 Education:
  『"Self-Taught Developer & Certifications from Courses",
     "Trained Designer",
@@ -42,7 +42,9 @@ Education:
     
 Interests:
 
- 『 "Web Development",
+ 『 "Mobile App Development",
+    "Ai + LLM"
+    "Web Development",
     "Game Development & Modding",
     "Machine Learning",
     "UI/UX",
@@ -51,6 +53,7 @@ Interests:
 Technical-Background:
 
 『
+    "Senior Software Engineer @ 1776 Logistics "
     "Software Engineer - Full Stack @ ACR HOME SERVICES"
     "Web Developer and Front End Specialist for various small brands/companies"
     "Server Developer for Various Video Games",
@@ -58,8 +61,9 @@ Technical-Background:
     "QQCW - Shopify/Website Development & Digital Gift-Card Generator",
     "Intern - Outreach Website Videographer"』
   
-Currently-Progressing: 『"Making a Full Stack Web application then converting it to a sole application to iOS and Android Devices!"』  
-2023/24 Goals: 『"Finish this Full Stack Web Application & Convert to iOS / Android Devices"』
+Currently-Progressing: 『
+"Making a Full Stack Web applications then converting it to a sole application to iOS and Android Devices!"』  
+2023/24 Goals: 『"Continue to grow and learn, while helping businesses and people succeed"』
 hobbies: 『"Comedy Shows/Movies, Creative Gaming/Modifications, Coding & Teaching Code, YouTube, Art/Design"』
 ```
 
